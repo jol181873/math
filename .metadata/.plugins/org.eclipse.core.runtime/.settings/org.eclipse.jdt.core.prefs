@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
+org.eclipse.jdt.core.compiler.compliance=1.7
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.source=1.7
+org.eclipse.jdt.core.userLibrary.scala\ 2.11=<?xml version\="1.0" encoding\="UTF-8"?>\n<userlibrary systemlibrary\="false" version\="2">\n\t<archive path\="/home/jol/scala-2.11.0-M5/scala-2.11.0-M5/lib/akka-actors.jar"/>\n\t<archive path\="/home/jol/scala-2.11.0-M5/scala-2.11.0-M5/lib/jline.jar"/>\n\t<archive path\="/home/jol/scala-2.11.0-M5/scala-2.11.0-M5/lib/scala-actors-migration.jar"/>\n\t<archive path\="/home/jol/scala-2.11.0-M5/scala-2.11.0-M5/lib/scalap.jar"/>\n\t<archive path\="/home/jol/scala-2.11.0-M5/scala-2.11.0-M5/lib/scala-parser-combinators.jar"/>\n\t<archive path\="/home/jol/scala-2.11.0-M5/scala-2.11.0-M5/lib/scala-xml.jar"/>\n\t<archive path\="/home/jol/scala-2.11.0-M5/scala-2.11.0-M5/lib/typesafe-config.jar"/>\n</userlibrary>\n
